@@ -7,6 +7,7 @@ II.Mục đích:
 3. Giúp người dùng khi đổi sang DNS khác vẫn có thể đổi về DNS cũ chính xác khi không sử dụng do đã sao lưu DNS cũ trước khi đổi và tự động xóa khi trả về cũ
 
 III. Hướng dẫn sử dụng
+
    Tải file zip về, giải nén và chạy file .bat ( cấp quyền admin)
 
 IV. Lưu ý
