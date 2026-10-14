@@ -6,7 +6,10 @@ II.Mục đích:
 2. Có giao diện dùng giúp thân thiện hơn với người dùng Lowtech hoặc không có thời gian để tìm hiểu
 3. Giúp người dùng khi đổi sang DNS khác vẫn có thể đổi về DNS cũ chính xác khi không sử dụng do đã sao lưu DNS cũ trước khi đổi và tự động xóa khi trả về cũ
 
-III. Lưu ý
+III. Hướng dẫn sử dụng
+   Tải file zip về, giải nén và chạy file .bat ( cấp quyền admin)
+
+IV. Lưu ý
 
 Đây là tool được viết bởi A.I. có thể tin tưởng sử dụng luôn do đã test trên máy của thằng làm code 😅😅😅. 
 
